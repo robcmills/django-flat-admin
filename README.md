@@ -14,5 +14,6 @@ python manage.py runserver
 ```
 
 visit `localhost:8000/admin`
+login with username `doge` and password `doge`
 
 ![screenshot](http://i.imgur.com/pWVzSox.png)
