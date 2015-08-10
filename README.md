@@ -14,3 +14,5 @@ python manage.py runserver
 ```
 
 visit `localhost:8000/admin`
+
+![screenshot](http://i.imgur.com/zQ5CsdL.png)
