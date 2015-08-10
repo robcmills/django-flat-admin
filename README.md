@@ -8,7 +8,7 @@ minimal django app with a customized flat themed admin
 git clone https://github.com/robcmills/django-flat-admin.git
 cd django-flat-admin
 virtualenv env
-pip install -R requirements.txt
+pip install -r requirements.txt
 cd django_flat_admin
 python manage.py runserver
 ```
