@@ -1,0 +1,19 @@
+{% extends "admin/base.html" %}
+
+{% load staticfiles %}
+
+{% block title %}Rawb dog{% endblock %}
+
+{% block extrastyle %}
+<link rel="stylesheet" type="text/css" 
+  href="{% static "admin/css/rob.css" %}"/>
+{% endblock %}
+
+{% block branding %}
+<h1 id="site-name">
+  <img class='doge' src="{% static "admin/img/doge-icon.png" %}">
+  <a href="{% url 'admin:index' %}">WOW, SUCH ADMIN, VERY DJANGO</a>
+</h1>
+{% endblock %}
+
+{% block nav-global %}{% endblock %}
