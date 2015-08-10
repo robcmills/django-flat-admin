@@ -5,6 +5,7 @@
   color: white;
 }
 #branding img.doge { height: 75px; }
+.login #branding img.doge { display: none; }
 
-#footer { text-align: center; }
+#footer { padding: 2em; text-align: center; }
 #footer img { height: 200px; }
