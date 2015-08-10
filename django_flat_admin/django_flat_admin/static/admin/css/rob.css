@@ -5,3 +5,6 @@
   color: white;
 }
 #branding img.doge { height: 75px; }
+
+#footer { text-align: center; }
+#footer img { height: 200px; }
