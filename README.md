@@ -15,4 +15,4 @@ python manage.py runserver
 
 visit `localhost:8000/admin`
 
-![screenshot](http://i.imgur.com/zQ5CsdL.png)
+![screenshot](http://i.imgur.com/7gJK9QA.png)
